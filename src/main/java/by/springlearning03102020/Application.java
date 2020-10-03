@@ -1,4 +1,4 @@
-package by.springlearning300;
+package by.springlearning03102020;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

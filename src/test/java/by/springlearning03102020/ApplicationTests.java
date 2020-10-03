@@ -1,4 +1,4 @@
-package by.springlearning300;
+package by.springlearning03102020;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
